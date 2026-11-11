@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+*.tmp
+.DS_Store
+.vscode/
+.idea/
